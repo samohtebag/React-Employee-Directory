@@ -52,6 +52,10 @@ npm install or yarn install
 npm start
 ```
 
+[image](https://i.imgur.com/DwtMna7.png)
+
+[gif](https://i.imgur.com/KWOXNys.mp4)
+
 
 <a name="#links"></a>
 
